@@ -1,0 +1,10 @@
+package application;
+
+//Ler os dados de um trabalhador com N contrator
+//(nao fornecido pelo usuario). Depois, solicita do usuario
+//um mes e mostrar qual foi o salario do funcionario nesse mes
+
+
+public class Program {
+
+}
